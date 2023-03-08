@@ -1,0 +1,23 @@
+{
+  "name": "cypress-exam",
+  "version": "1.0.0",
+  "description": "Cypress Exam exersize",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDesignRT/cypress-exam.git"
+  },
+  "author": "DevDesign",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/DevDesignRT/cypress-exam/issues"
+  },
+  "homepage": "https://github.com/DevDesignRT/cypress-exam#readme",
+  "dependencies": {
+    "cypress": "^12.7.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
